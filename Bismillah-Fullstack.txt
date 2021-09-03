@@ -2,3 +2,4 @@ Belajar Fullstack
 Halaman ini dibuat sebagai bahan belajar pertama di github, yang mana tujuan dasarnya untuk dapat memahami seluruh isi github dan untuk dapat menguasai front end & back end secara serentak
 Kuatkan tekad dan terus konsisten dalam mempelajari pemrograman fullstack ini, karena pelaut yang hebat tidak terlahir dari laut yang tenang
 Bismillah fullstack developer
+Jadilah seperti bujang inam
